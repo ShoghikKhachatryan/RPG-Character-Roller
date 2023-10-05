@@ -6,7 +6,7 @@ A Java project designed for studying control flow principles.
 Project is created with Java.
 
 #### Usage
-in lockal  
+In lockal  
 1. Clone this repository:   
 `git clone git@github.com:ShoghikKhachatryan/RPG-Character-Roller.git`
 2. Navigate to the project directory:
@@ -16,6 +16,7 @@ in lockal
 ## Example
 Example of desired program output below:
 
+```
 $ javac Creator.java && java Creator Veera
 -----------------------------------------
 Welcome to the character generator!
@@ -26,3 +27,5 @@ Veera is.... a Wizard!
         Health: 11
 
 Happy adventuring!
+-----------------------------------------
+```
